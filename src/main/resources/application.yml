@@ -1,0 +1,37 @@
+server:
+  port: 8080
+spring:
+    profiles:
+      active: zzn
+---
+server:
+  port: 22808
+spring:
+  profiles: zzn
+
+---
+server:
+  port: 80
+spring:
+  profiles: test
+---
+server:
+  error:
+    include-exception: true
+    include-message: always
+debug: true
+spring:
+  redis:
+    host: localhost
+    port: 6379
+  logging:
+    config: classpath:111111111.xml
+#name 和 file不能同时存在
+  jpa:
+    database: oracle
+    show-sql: true
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@127.0.0.1:1521:gylzzn
+    username: zzn
+    password: zzn

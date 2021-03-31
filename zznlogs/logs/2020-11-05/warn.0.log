@@ -1,0 +1,3 @@
+楠楠加油[WARN ] 2020-11-05 18:58:54.881 [main] c.a.d.pool.DruidAbstractDataSource - oracle.jdbc.driver.OracleDriver is deprecated.Having use oracle.jdbc.OracleDriver.
+楠楠加油[WARN ] 2020-11-05 19:43:34.279 [main] c.a.d.pool.DruidAbstractDataSource - oracle.jdbc.driver.OracleDriver is deprecated.Having use oracle.jdbc.OracleDriver.
+[WARN ] 2020-11-05 19:45:39.127 [main] c.a.d.pool.DruidAbstractDataSource - oracle.jdbc.driver.OracleDriver is deprecated.Having use oracle.jdbc.OracleDriver.

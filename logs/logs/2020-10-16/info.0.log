@@ -1,0 +1,130 @@
+[INFO ] 2020-10-16 21:12:19.618 [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+[INFO ] 2020-10-16 21:12:19.628 [main] zzn.ZznApplication - Starting ZznApplication on LAPTOP-6GBDHK1E with PID 21996 (E:\文件\文件\springboot\zzn\target\classes started by 王路飞 in E:\文件\文件\springboot\zzn)
+[INFO ] 2020-10-16 21:12:19.629 [main] zzn.ZznApplication - The following profiles are active: test
+[INFO ] 2020-10-16 21:12:20.073 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ] 2020-10-16 21:12:20.074 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ] 2020-10-16 21:12:20.092 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+[INFO ] 2020-10-16 21:12:20.397 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+[INFO ] 2020-10-16 21:12:20.403 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:12:20.403 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-10-16 21:12:20.403 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+[INFO ] 2020-10-16 21:12:20.404 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+[INFO ] 2020-10-16 21:12:20.404 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-10-16 21:12:20.405 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-10-16 21:12:20.407 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+[INFO ] 2020-10-16 21:12:20.508 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-10-16 21:12:20.508 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 850 ms
+[INFO ] 2020-10-16 21:12:20.887 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-10-16 21:12:21.115 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:12:21.130 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+[INFO ] 2020-10-16 21:12:21.148 [main] zzn.ZznApplication - Started ZznApplication in 1.867 seconds (JVM running for 2.949)
+[INFO ] 2020-10-16 21:12:50.731 [http-nio-80-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:12:50.731 [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:12:50.736 [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet - Completed initialization in 5 ms
+[INFO ] 2020-10-16 21:12:50.795 [http-nio-80-exec-2] zzn.controller.ClientController - 登录开始================================
+[INFO ] 2020-10-16 21:12:50.796 [http-nio-80-exec-2] zzn.controller.ClientController - 前台输入的用户名=1111前台输入的密码=:1111
+[INFO ] 2020-10-16 21:12:50.827 [http-nio-80-exec-2] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+[INFO ] 2020-10-16 21:14:04.142 [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+[INFO ] 2020-10-16 21:14:04.164 [main] zzn.ZznApplication - Starting ZznApplication on LAPTOP-6GBDHK1E with PID 6156 (E:\文件\文件\springboot\zzn\target\classes started by 王路飞 in E:\文件\文件\springboot\zzn)
+[INFO ] 2020-10-16 21:14:04.165 [main] zzn.ZznApplication - The following profiles are active: test
+[INFO ] 2020-10-16 21:14:04.624 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ] 2020-10-16 21:14:04.626 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ] 2020-10-16 21:14:04.643 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+[INFO ] 2020-10-16 21:14:04.948 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+[INFO ] 2020-10-16 21:14:04.953 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:14:04.954 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-10-16 21:14:04.954 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+[INFO ] 2020-10-16 21:14:04.954 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+[INFO ] 2020-10-16 21:14:04.955 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-10-16 21:14:04.955 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-10-16 21:14:04.957 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+[INFO ] 2020-10-16 21:14:05.055 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-10-16 21:14:05.055 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 857 ms
+[INFO ] 2020-10-16 21:14:05.430 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-10-16 21:14:05.645 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:14:05.660 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+[INFO ] 2020-10-16 21:14:05.678 [main] zzn.ZznApplication - Started ZznApplication in 1.851 seconds (JVM running for 2.911)
+[INFO ] 2020-10-16 21:14:17.989 [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:14:17.990 [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:14:17.993 [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+[INFO ] 2020-10-16 21:14:18.054 [http-nio-80-exec-1] zzn.controller.ClientController - 登录开始================================
+[INFO ] 2020-10-16 21:14:18.055 [http-nio-80-exec-1] zzn.controller.ClientController - 前台输入的用户名=1111前台输入的密码=:1111
+[INFO ] 2020-10-16 21:14:18.084 [http-nio-80-exec-1] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+[INFO ] 2020-10-16 21:15:22.764 [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+[INFO ] 2020-10-16 21:15:22.781 [main] zzn.ZznApplication - Starting ZznApplication on LAPTOP-6GBDHK1E with PID 9868 (E:\文件\文件\springboot\zzn\target\classes started by 王路飞 in E:\文件\文件\springboot\zzn)
+[INFO ] 2020-10-16 21:15:22.782 [main] zzn.ZznApplication - The following profiles are active: test
+[INFO ] 2020-10-16 21:15:23.241 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ] 2020-10-16 21:15:23.243 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ] 2020-10-16 21:15:23.260 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+[INFO ] 2020-10-16 21:15:23.571 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+[INFO ] 2020-10-16 21:15:23.577 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:15:23.577 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-10-16 21:15:23.577 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+[INFO ] 2020-10-16 21:15:23.578 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+[INFO ] 2020-10-16 21:15:23.578 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-10-16 21:15:23.578 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-10-16 21:15:23.580 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+[INFO ] 2020-10-16 21:15:23.680 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-10-16 21:15:23.680 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 866 ms
+[INFO ] 2020-10-16 21:15:24.089 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-10-16 21:15:24.316 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:15:24.331 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+[INFO ] 2020-10-16 21:15:24.349 [main] zzn.ZznApplication - Started ZznApplication in 1.901 seconds (JVM running for 3.008)
+[INFO ] 2020-10-16 21:15:31.108 [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:15:31.108 [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:15:31.112 [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+[INFO ] 2020-10-16 21:15:31.173 [http-nio-80-exec-1] zzn.controller.ClientController - 登录开始================================
+[INFO ] 2020-10-16 21:15:31.174 [http-nio-80-exec-1] zzn.controller.ClientController - 前台输入的用户名=1111前台输入的密码=:1111
+[INFO ] 2020-10-16 21:15:31.204 [http-nio-80-exec-1] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+[INFO ] 2020-10-16 21:16:25.566 [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+[INFO ] 2020-10-16 21:16:25.578 [main] zzn.ZznApplication - Starting ZznApplication on LAPTOP-6GBDHK1E with PID 16896 (E:\文件\文件\springboot\zzn\target\classes started by 王路飞 in E:\文件\文件\springboot\zzn)
+[INFO ] 2020-10-16 21:16:25.579 [main] zzn.ZznApplication - The following profiles are active: test
+[INFO ] 2020-10-16 21:16:26.029 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ] 2020-10-16 21:16:26.031 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ] 2020-10-16 21:16:26.049 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+[INFO ] 2020-10-16 21:16:26.364 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+[INFO ] 2020-10-16 21:16:26.370 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:16:26.370 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-10-16 21:16:26.371 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+[INFO ] 2020-10-16 21:16:26.371 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+[INFO ] 2020-10-16 21:16:26.372 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-10-16 21:16:26.372 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-10-16 21:16:26.374 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+[INFO ] 2020-10-16 21:16:26.472 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-10-16 21:16:26.473 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 862 ms
+[INFO ] 2020-10-16 21:16:26.847 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-10-16 21:16:27.057 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:16:27.071 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+[INFO ] 2020-10-16 21:16:27.089 [main] zzn.ZznApplication - Started ZznApplication in 1.853 seconds (JVM running for 2.952)
+[INFO ] 2020-10-16 21:16:31.235 [http-nio-80-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:16:31.236 [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:16:31.239 [http-nio-80-exec-2] o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+[INFO ] 2020-10-16 21:16:31.299 [http-nio-80-exec-2] zzn.controller.ClientController - 登录开始================================
+[INFO ] 2020-10-16 21:16:31.300 [http-nio-80-exec-2] zzn.controller.ClientController - 前台输入的用户名=1111前台输入的密码=:1111
+[INFO ] 2020-10-16 21:16:31.329 [http-nio-80-exec-2] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+[INFO ] 2020-10-16 21:16:52.556 [background-preinit] o.h.validator.internal.util.Version - HV000001: Hibernate Validator 6.1.5.Final
+[INFO ] 2020-10-16 21:16:52.575 [main] zzn.ZznApplication - Starting ZznApplication on LAPTOP-6GBDHK1E with PID 21980 (E:\文件\文件\springboot\zzn\target\classes started by 王路飞 in E:\文件\文件\springboot\zzn)
+[INFO ] 2020-10-16 21:16:52.575 [main] zzn.ZznApplication - The following profiles are active: test
+[INFO ] 2020-10-16 21:16:53.013 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode!
+[INFO ] 2020-10-16 21:16:53.014 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+[INFO ] 2020-10-16 21:16:53.031 [main] o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+[INFO ] 2020-10-16 21:16:53.335 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 80 (http)
+[INFO ] 2020-10-16 21:16:53.341 [main] o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:16:53.341 [main] o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 2020-10-16 21:16:53.341 [main] o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.38]
+[INFO ] 2020-10-16 21:16:53.342 [main] o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+[INFO ] 2020-10-16 21:16:53.342 [main] o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[INFO ] 2020-10-16 21:16:53.342 [main] o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[INFO ] 2020-10-16 21:16:53.344 [main] o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+[INFO ] 2020-10-16 21:16:53.445 [main] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 2020-10-16 21:16:53.445 [main] o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 839 ms
+[INFO ] 2020-10-16 21:16:53.818 [main] o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-10-16 21:16:54.028 [main] o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-80"]
+[INFO ] 2020-10-16 21:16:54.043 [main] o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 80 (http) with context path ''
+[INFO ] 2020-10-16 21:16:54.060 [main] zzn.ZznApplication - Started ZznApplication in 1.836 seconds (JVM running for 2.892)
+[INFO ] 2020-10-16 21:17:00.075 [http-nio-80-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:17:00.076 [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 2020-10-16 21:17:00.079 [http-nio-80-exec-1] o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+[INFO ] 2020-10-16 21:17:00.140 [http-nio-80-exec-1] zzn.controller.ClientController - 登录开始================================
+[INFO ] 2020-10-16 21:17:00.141 [http-nio-80-exec-1] zzn.controller.ClientController - 前台输入的用户名=1111前台输入的密码=:1111
+[INFO ] 2020-10-16 21:17:00.171 [http-nio-80-exec-1] c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
